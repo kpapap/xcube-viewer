@@ -2,12 +2,12 @@
   "name": "default",
   "server": {
     "id": "local",
-    "name": "Local Server",
-    "url": "http://localhost:8080"
+    "name": "eo4natura Server",
+    "url": "https://eo4natura.data-cube.gr/xcubeserver"
   },
   "branding": {
-    "appBarTitle": "xcube Viewer",
-    "windowTitle": "xcube Viewer",
+    "appBarTitle": "eo4natura",
+    "windowTitle": "eo4natura",
     "windowIcon": null,
     "compact": false,
     "themeName": "light",
